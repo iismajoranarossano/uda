@@ -1,4 +1,4 @@
-![Smart City](images/smartCity.png)
+![Smart City](images/smartCity.jpeg)
 
 <h1 align="center">
   Smart City
