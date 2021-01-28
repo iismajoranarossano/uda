@@ -1,6 +1,8 @@
 ![Smart City](images/smartCity.png)
 
-<center> <h1> Smart City </h1> </center>
+<h1 align="center">
+  Smart City
+</h1>
 
 esempio
 **grassetto**
