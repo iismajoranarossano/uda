@@ -4,16 +4,31 @@
   Smart City
 </h1>
 
+Introduzione all'articolo. 
+
 #### Indice
 
 - [Inglese](#city-of-the-future)
-- [Italiano]()
-- [Storia]()
-- [Sistemi e reti]()
+- [Italiano](#titolo-della-sezione-di-italiano)
+- [Storia](#titolo-della-sezione-di-storia)
+- [Sistemi e reti](#titolo-della-sezione-di-sistemi)
 
 ## [City of the future](https://youtu.be/L054Xd97_rk)
 
-Riassunto del video <!-- TOD0: Daniel Falbo -->
+Introduzione al video e punti salienti
+
+## [Italiano (rimpiazzare con il titolo del contenuto allegato)](link-del-contenuto-di-italiano)
+
+Introduzione al video e punti salienti
+
+## [Storia (rimpiazzare con il titolo del contenuto allegato)](link-del-contenuto-di-storia)
+
+Introduzione al video e punti salienti
+
+## [Sistemi e reti (rimpiazzare con il titolo del contenuto allegato)](link-del-contenuto-di-sistemi)
+
+Introduzione al video e punti salienti
+
 
 > #### Prodotto finale dell'UDA <br>
 >
