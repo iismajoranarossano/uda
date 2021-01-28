@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/smartCity.jpg" alt="Smart City">
+  <img src="images/smartCity.JPG" alt="Smart City">
 </div>
 
 ---
