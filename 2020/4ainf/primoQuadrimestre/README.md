@@ -6,7 +6,7 @@
 
 <p align="center">Sicurezza, salute e benessere della persona</p>
 
-Introduzione all'articolo. Descrizione goal agenda 2030 
+Introduzione all'articolo. Descrizione goal agenda 2030
 
 #### Indice
 
@@ -30,7 +30,6 @@ Introduzione al video e punti salienti
 ## [Sistemi e reti (rimpiazzare con il titolo del contenuto allegato)](link-del-contenuto-di-sistemi)
 
 Introduzione al video e punti salienti
-
 
 > #### Prodotto finale dell'UDA <br>
 >
