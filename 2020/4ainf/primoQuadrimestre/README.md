@@ -4,8 +4,6 @@
   Smart City
 </h1>
 
-ciao esempio
-
 > #### Prodotto finale dell'UDA <br>
 >
 > > #### Classe 4ᵃ A informatica <br>
