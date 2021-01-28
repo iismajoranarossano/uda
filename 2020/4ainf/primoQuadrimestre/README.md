@@ -2,6 +2,8 @@
   <img src="images/smartCity.jpeg" alt="Smart City">
 </div>
 
+---
+
 Introduzione all'articolo. Descrizione goal agenda 2030
 
 #### Indice
