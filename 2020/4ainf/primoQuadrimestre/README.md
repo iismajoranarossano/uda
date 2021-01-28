@@ -4,9 +4,7 @@
   Smart City
 </h1>
 
-<blockquote align="center">
-    <p>Sicurezza, salute e benessere della persona</p>
-</blockquote>
+<p align="center">Sicurezza, salute e benessere della persona</p>
 
 Introduzione all'articolo. Descrizione goal agenda 2030 
 
