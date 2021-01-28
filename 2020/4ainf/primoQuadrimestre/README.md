@@ -1,14 +1,4 @@
-![Smart City](images/smartCity.jpeg)
-
-<h1 align="center">
-  Smart City
-</h1>
-
-<p align="center">
-  <strong>
-    Sicurezza, salute e benessere della persona
-  </strong>
-</p>
+<img align="center" src="images/smartCity.jpeg" alt="Smart City">
 
 Introduzione all'articolo. Descrizione goal agenda 2030
 
