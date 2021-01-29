@@ -13,7 +13,22 @@ Introduzione dell'articolo. Descrizione goal agenda 2030…
 
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
-Introduzione al video e punti salienti
+La smart city è una città che gestisce le risorse in modo intelligente, mira a diventare economicamente sostenibile ed energeticamente autosufficiente, ed è attenta alla qualità della vita e ai bisogni dei propri cittadini. La smart city inoltre presenta alcune caratteristiche per essere chiamata tale:
+
+- **Smart People**:
+Gli abitanti di una città sono enormemente coinvolti nel processo di raggiungimento dell’obiettivo Smart city. Infatti, all’interno di una città intelligente si applica la politica partecipativa: tutti gli individui sono coinvolti all’interno dei processi decisionali e condividono idee, pensieri e informazioni.
+
+- **Smart Living**:
+Tutti i cittadini di una Smart city devono poter godere di un livello di salute, educazione, sicurezza e cultura elevati. Tutti i servizi devono essere facilmente accessibili a livello collettivo e devono essere in grado di garantire una qualità di vita elevata.
+
+- **Smart Economy**:
+L’economia e il commercio all’interno di una città intelligente devono essere rivolti all’aumento della produttività nel rispetto delle risorse offerte dall’ambiente circostante. Anche l’occupazione all’interno della città è un fattore fondamentale: l’economia deve puntare sulla condivisione e sull’innovazione.
+
+- **Smart Mobility**:
+Anche la mobilità diventa intelligente all’interno delle Smart cities: si privilegiano forme di mobilità sostenibili, condivise e accessibili, quali sharing mobility e mobilità elettrica. Il fine ultimo è ottimizzare il mondo dei trasporti rendendoli accessibili ed economici.
+
+- **Smart Enviroment**:
+Alla base dello sviluppo di una città intelligente deve esserci lo sviluppo sostenibile: rispetto dell’ambiente circostante, utilizzo corretto delle risorse naturali ed efficienza energetica sono gli obiettivi da raggiungere.
 
 ## [The City of the Future](https://youtu.be/L054Xd97_rk)
 
