@@ -35,11 +35,11 @@ believes they make sense, including
   fly from New York City to Shangai in 39 minutes or Sidney to London in 59
   minutes. If we didn't reuse planes, it would cost up to $250.000.000 to fly
   one way, but because we reuse them tens of thousands of times, it becomes
-  affordable. That also applies to rockets! A
-  [SpaceX](https://www.spacex.com) rocket costs about $60.000.000, and if we
-  could reuse it 1000 times, it would then costs $60.000 per flight and by
-  carrying a number of people, we could get the cost of a rocket flight down
-  to the price of an economy aircraft ticket.
+  affordable. That also applies to rockets! A [SpaceX](https://www.spacex.com)
+  rocket costs about $60.000.000, if we could reuse it 1000 times, it would
+  then costs $60.000 per flight and by carrying a number of people, we could
+  get the cost of a rocket flight down to the price of an economy aircraft
+  ticket.
 - **hyperloop**
 - **gamified learning**: you may think that this has nothing to do with smart
   cities at first, but ask yourself the question "how should kids and adults
