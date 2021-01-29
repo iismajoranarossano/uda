@@ -8,14 +8,14 @@ Introduzione all'articolo. Descrizione goal agenda 2030…
 
 #### Indice
 
-- [Inglese](#city-of-the-future)
 - [Informatica](#le-città-del-futuro)
+- [Inglese](#city-of-the-future)
 
-## [City of the future](https://youtu.be/L054Xd97_rk)
+## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
 Introduzione al video e punti salienti
 
-## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
+## [City of the future](https://youtu.be/L054Xd97_rk)
 
 Introduzione al video e punti salienti
 
