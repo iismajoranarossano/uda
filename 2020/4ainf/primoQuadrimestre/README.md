@@ -27,20 +27,24 @@ video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
 believes they make sense, including
 
 - **electric self-driving land vehicles**:
+<!-- TODO:  <29-01-21, Daniel Falbo>
   - **tunnel networks**
   - **semi-trucks**
   - **autonomous shared cars**
+-->
 - **reusable rockets as cheap as ordinary aircrafts and capable of
-  transporting people or cargo from city to city**: rockets would allow us to
-  fly from New York City to Shangai in 39 minutes or Sidney to London in 59
-  minutes. If we didn't reuse planes, it would cost up to $250.000.000 to fly
-  one way, but because we reuse them tens of thousands of times, it becomes
-  affordable. That also applies to rockets! A [SpaceX](https://www.spacex.com)
-  rocket costs about $60.000.000, if we could reuse it 1000 times, it would
-  then costs $60.000 per flight and by carrying a number of people, we could
-  get the cost of a rocket flight down to the price of an economy aircraft
-  ticket.
+transporting people or cargo from city to city**: rockets would allow us to
+fly from New York City to Shangai in 39 minutes or Sidney to London in 59
+minutes. If we didn't reuse planes, it would cost up to $250.000.000 to fly
+one way, but because we reuse them tens of thousands of times, it becomes
+affordable. That also applies to rockets! A [SpaceX](https://www.spacex.com)
+rocket costs about $60.000.000, if we could reuse it 1000 times, it would
+then costs $60.000 per flight and by carrying a number of people, we could
+get the cost of a rocket flight down to the price of an economy aircraft
+ticket.
+<!-- TODO:  <29-01-21, Daniel Falbo>
 - **hyperloop**
+  -->
 - **gamified learning**: you may think that this has nothing to do with smart
   cities at first, but ask yourself the question "how should kids and adults
   spend their time in the city of the future, where there are fewer and fewer
