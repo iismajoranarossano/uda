@@ -26,12 +26,13 @@ a nerdy CEO who strives to think about exciting-yet-realistic technologies
 video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
 believes they make sense, including
 
-- **electric self-driving land vehicles**:
 <!-- TODO:  <29-01-21, Daniel Falbo>
+- **electric self-driving land vehicles**:
   - **tunnel networks**
   - **semi-trucks**
   - **autonomous shared cars**
 -->
+
 - **reusable rockets as cheap as ordinary aircrafts and capable of
 transporting people or cargo from city to city**: rockets would allow us to
 fly from New York City to Shangai in 39 minutes or Sidney to London in 59
