@@ -24,7 +24,7 @@ is only getting faster. [Elon Musk](https://www.wikiwand.com/en/Elon_Musk) is
 a nerdy CEO who strives to think about exciting-yet-realistic technologies
 (and, in general, solutions to problems). The [linked
 video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
-believes they make sense, including
+believes those make sense, including:
 
 <!-- TODO:  <29-01-21, Daniel Falbo>
 - **electric self-driving land vehicles**:
@@ -56,7 +56,7 @@ ticket.
   problem solving, ethics and, in general, things that allow one to create and
   understand or predict the future.
 
-## <br> <br>
+# <br> <br>
 
 > #### Prodotto finale dell'UDA
 >
