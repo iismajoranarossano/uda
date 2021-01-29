@@ -12,12 +12,17 @@ Introduzione all'articolo. Descrizione goal agenda 2030
 - [Italiano](#titolo-della-sezione-di-italiano)
 - [Storia](#titolo-della-sezione-di-storia)
 - [Sistemi e reti](#titolo-della-sezione-di-sistemi)
+- [Informatica](#le-città-del-futuro)
 
 ## [City of the future](https://youtu.be/L054Xd97_rk)
 
 Introduzione al video e punti salienti
 
 ## [Italiano (rimpiazzare con il titolo del contenuto allegato)](link-del-contenuto-di-italiano)
+
+Introduzione al video e punti salienti
+
+## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
 Introduzione al video e punti salienti
 
