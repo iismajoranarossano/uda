@@ -4,7 +4,7 @@
 
 #
 
-Introduzione all'articolo. Descrizione goal agenda 2030…
+Introduzione dell'articolo. Descrizione goal agenda 2030…
 
 #### Indice
 
@@ -37,7 +37,7 @@ believes they make sense, including
   one way, but because we reuse them tens of thousands of times, it becomes
   affordable. That also applies to rockets! A
   [SpaceX](https://www.spacex.com) rocket costs about $60.000.000, and if we
-  could reuse it 100 times, it would then costs $60.000 per flight and by
+  could reuse it 1000 times, it would then costs $60.000 per flight and by
   carrying a number of people, we could get the cost of a rocket flight down
   to the price of an economy aircraft ticket.
 - **hyperloop**
