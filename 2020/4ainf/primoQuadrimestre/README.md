@@ -9,6 +9,7 @@ Introduzione dell'articolo. Descrizione goal agenda 2030…
 #### Indice
 
 - [Informatica](#le-città-del-futuro)
+- [Sistemi e reti](#Smart-city:-cos’è,-come-funziona,-caratteristiche-ed-esempi-in-Italia)
 - [Inglese](#the-city-of-the-future)
 
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
@@ -29,6 +30,25 @@ Anche la mobilità diventa intelligente all’interno delle Smart cities: si pri
 
 - **Smart Enviroment**:
 Alla base dello sviluppo di una città intelligente deve esserci lo sviluppo sostenibile: rispetto dell’ambiente circostante, utilizzo corretto delle risorse naturali ed efficienza energetica sono gli obiettivi da raggiungere.
+
+## [Smart city: cos’è, come funziona, caratteristiche ed esempi in Italia]( https://www.economyup.it/mobilita/smart-city-cosa-sono-davvero-e-a-che-punto-siamo-in-italia/)
+
+Smart City è un termine ormai diventato di moda. E, anche se a volte viene utilizzato impropriamente come leva di marketing da aziende e amministrazioni locali, si riferisce all’ideale collettivo della città del futuro. Ma vediamo qual è il vero significato di “smart city” o città intelligente. Una smart city è un’area urbana in cui, grazie all’utilizzo delle tecnologie digitali e più in generale dell’innovazione tecnologica, è possibile ottimizzare e migliorare le infrastrutture e i servizi ai cittadini rendendoli più efficienti. Tra i punti fondamentali e le [caratteristiche principali]( https://www.lumi4innovation.it/smart-city-cose-come-funziona-caratteristiche-ed-esempi-in-italia/) di una città intelligente, troviamo infatti:
+
+- **Partecipazione e responsabilità condivisa**:
+Informazione e comunicazione sono fondamentali per permettere ai cittadini di interagire, dialogare e partecipare allo sviluppo della città e alle decisioni dell’amministrazione locale. Per questo motivo la città intelligente deve potersi appoggiare a un sistema informatico che permetta a chiunque di inviare in tempo reale una segnalazione su un problema o una richiesta. Il primo fondamento della smart city è quindi di essere inclusiva e massimizzare il capitale umano e sociale anche attraverso azioni volte a promuovere lo sviluppo delle attività e del commercio in città.
+
+- **Smart building o edifici intelligenti**:
+Gli edifici di nuova costruzione o che subiscono un intervento di riqualificazione devono rispondere a precisi standard di efficienza energetica e smartness. Lo smart building è il tassello fondamentale per la costruzione di una smart city e fa parte del capitale infrastrutturale e sociale.
+
+- **Efficienza energetica e sostenibilità ambientale**:
+Per gestire in modo efficiente l’energia e ottenere risultati di risparmio energetico bisogna puntare alla creazione di una smart grid o di sistemi di smart energy. Una città intelligente deve anche puntare sull’uso delle energie rinnovabili e su sistemi intelligenti di gestione dei rifiuti in un’ottica di economia circolare. Importante anche il ruolo delle aree verdi e dei parchi, perché anche il capitale ambientale va ottimizzato e reso efficiente.
+
+- **Sicurezza Integrata**:
+In una città intelligente, la sicurezza è un aspetto importantissimo. Sicurezza significa minore criminalità e maggiore attenzione alle aree critiche come le periferie ad esempio. L’utilizzo di tecnologie innovative e sistemi di sicurezza sempre più interconnessi e integrati permette di raggiungere risultati importanti in questo ambito.
+
+- **Trasporto e mobilità**:
+Smart mobility, e-mobility ma anche soluzioni di smart parking. Perché una città sia efficiente, più vivibile e intelligente, bisogna andare verso soluzioni che snelliscano il traffico e riducano l’inquinamento.
 
 ## [The City of the Future](https://youtu.be/L054Xd97_rk)
 
@@ -70,6 +90,8 @@ ticket.
   Schools should instead gamify the learning experience and focus on teaching
   problem solving, ethics and, in general, things that allow one to create and
   understand or predict the future.
+  
+  
 
 # <br> <br>
 
