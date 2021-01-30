@@ -143,8 +143,6 @@ of an economy aircraft ticket.
   learning experience and focus on teaching problem solving, ethics and, in
   general, things that allow one to create and understand or predict the future.
   
-# <br> <br>
-
  ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
 Qual è il rapporto tra religione e benessere?
@@ -160,6 +158,8 @@ più o meno supportato dalle comunità di correligionari.
 Garantire a tutti gli esseri umani che vivono stabilmente in un territorio la possibilità di adeguare 
 i propri comportamenti alimentari alle norme alimentari previste dal proprio credo è una sfida 
 che la nostra società ha iniziato da poco ad affrontare con consapevolezza.
+
+# <br> <br>
 
 > #### Prodotto finale dell'UDA
 >
