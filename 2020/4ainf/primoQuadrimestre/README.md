@@ -4,14 +4,19 @@
 
 #
 
-Introduzione dell'articolo. Descrizione goal agenda 2030…
+L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le persone, il pianeta e la proprietà. Essa ingloba 17 Obiettivi per lo Sviluppo Sostenibile, in un grande programma di azione per un totale di 169 traguardi.
 
 #### Indice
 
+- [Italiano](#Salute-e-Benessere)
 - [Informatica](#le-città-del-futuro)
 - [Sistemi e reti](#smart-city-in-italia)
 - [Inglese](#the-city-of-the-future)
 - [Religione](#religione-e-benessere)
+
+## [Salute e Benessere]( https://www.youtube.com/watch?v=m4sjGouK8Dk)
+Gli Obiettivi per lo Sviluppo, rappresentano obiettivi comuni su un insieme di questioni importanti per lo sviluppo: “Obiettivi Comuni” significa che nessuno ne è escluso. 
+Per raggiungere lo Sviluppo Sostenibile, è fondamentale garantire una vita sana e promuovere il benessere di tutti a tutte le età. Sono necessari molti sforzi per sradicare completamente un’ampia varietà di malattie e affrontare numerose e diverse questioni relative alla salute, siano esse recenti o persistenti nel tempo. Gli Obiettivi del target 3 riguardano, appunto, la salute e il benessere degli individui. [L’Obiettivo 3](https://asvis.it/goal-e-target-obiettivi-e-traguardi-per-il-2030/) conta di ridurre il tasso di mortalità materna globale; mettere fine alle morti di neonati e bambini sotto i 5 anni; porre fine alle pandemie di AIDS, tubercolosi e malattie trascurate; ridurre la mortalità da malattie non trasmissibili attraverso la prevenzione e la cura e promuovere la salute mentale e il benessere; rafforzare la prevenzione en il trattamento di abusi di sostanze; dimezzare il numero di decessi a livello mondiale e le lesioni da incidenti stradali; garantire l’accesso universale ai servizi di assistenza sanitaria universale; ridurre sostanzialmente il numero di decessi e malattie da sostanze chimiche pericolose e da inquinamento di aria, acqua e suolo; sostenere la ricerca e lo sviluppo di vaccini e farmaci per le malattie trasmissibili e non trasmissibili che colpiscono soprattutto i paesi in via di sviluppo; aumentare sostanzialmente il finanziamento della sanità e il reclutamento, lo sviluppo. La formazione e il mantenimento del personale sanitario nei paesi in via di sviluppo; rafforzare la capacità di tutti i paesi, per la prevenzione e la gestione dei rischi per la salute nazionale e globale, e tutto ciò entro l’anno 2030.
 
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
