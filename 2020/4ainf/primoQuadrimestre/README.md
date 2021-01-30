@@ -113,22 +113,6 @@ a nerdy CEO who strives to think about exciting-yet-realistic technologies
 video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
 believes those make sense, including:
 
-## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
-
-Qual è il rapporto tra religione e benessere?
-A questa domanda risponde in maniera esaustiva la seconda edizione 
-dell Handbook of Religion and Health,curato dallo psichiatra statunitense Harold Koenig. 
-Per anni psicologia e religione sono state contrapposte, ed è un vero peccato, 
-perché la religione influenza positivamente la nostra psiche, quindi anche la salute. 
-Bisogna prendere atto del fatto che la religione fa bene alla salute, secondo recenti studi, infatti, 
-chi non ha un credo ha meno probabilità di essere sano e felice e tenderebbe a perdere almeno sette anni di vita. 
-Ogni fedele, specie se vive in un contesto geografico molto diverso da quello in cui le regole alimentari 
-hanno avuto origine, cercherà il proprio modo di interpretare le norme, 
-più o meno supportato dalle comunità di correligionari. 
-Garantire a tutti gli esseri umani che vivono stabilmente in un territorio la possibilità di adeguare 
-i propri comportamenti alimentari alle norme alimentari previste dal proprio credo è una sfida 
-che la nostra società ha iniziato da poco ad affrontare con consapevolezza.
-
 <!-- TODO:  <29-01-21, Daniel Falbo>
 - **electric self-driving land vehicles**:
   - **tunnel networks**
@@ -158,8 +142,24 @@ of an economy aircraft ticket.
   since children have different abilities. Schools should instead gamify the
   learning experience and focus on teaching problem solving, ethics and, in
   general, things that allow one to create and understand or predict the future.
-
+  
 # <br> <br>
+
+ ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
+
+Qual è il rapporto tra religione e benessere?
+A questa domanda risponde in maniera esaustiva la seconda edizione 
+dell Handbook of Religion and Health,curato dallo psichiatra statunitense Harold Koenig. 
+Per anni psicologia e religione sono state contrapposte, ed è un vero peccato, 
+perché la religione influenza positivamente la nostra psiche, quindi anche la salute. 
+Bisogna prendere atto del fatto che la religione fa bene alla salute, secondo recenti studi, infatti, 
+chi non ha un credo ha meno probabilità di essere sano e felice e tenderebbe a perdere almeno sette anni di vita. 
+Ogni fedele, specie se vive in un contesto geografico molto diverso da quello in cui le regole alimentari 
+hanno avuto origine, cercherà il proprio modo di interpretare le norme, 
+più o meno supportato dalle comunità di correligionari. 
+Garantire a tutti gli esseri umani che vivono stabilmente in un territorio la possibilità di adeguare 
+i propri comportamenti alimentari alle norme alimentari previste dal proprio credo è una sfida 
+che la nostra società ha iniziato da poco ad affrontare con consapevolezza.
 
 > #### Prodotto finale dell'UDA
 >
