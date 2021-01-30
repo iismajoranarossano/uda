@@ -2,21 +2,44 @@
   <img src="images/smartCity.png" alt="Smart City">
 </div>
 
-#
+# [Introduzione](https://www.youtube.com/watch?v=m4sjGouK8Dk)
 
-L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le persone, il pianeta e la proprietà. Essa ingloba 17 Obiettivi per lo Sviluppo Sostenibile, in un grande programma di azione per un totale di 169 traguardi.
+L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le
+persone, il pianeta e la proprietà. Essa ingloba 17 Obiettivi per lo Sviluppo
+Sostenibile, in un grande programma di azione per un totale di 169 traguardi.
+Gli Obiettivi per lo Sviluppo, rappresentano obiettivi comuni su un insieme di
+questioni importanti per lo sviluppo: “Obiettivi Comuni” significa che nessuno
+ne è escluso. Per raggiungere lo Sviluppo Sostenibile, è fondamentale
+garantire una vita sana e promuovere il benessere di tutti a tutte le età.
+Sono necessari molti sforzi per sradicare completamente un’ampia varietà di
+malattie e affrontare numerose e diverse questioni relative alla salute, siano
+esse recenti o persistenti nel tempo. Gli Obiettivi del target 3 riguardano,
+appunto, la salute e il benessere degli individui. [L’Obiettivo
+3](https://asvis.it/goal-e-target-obiettivi-e-traguardi-per-il-2030/) conta di
+ridurre il tasso di mortalità materna globale; mettere fine alle morti di
+neonati e bambini sotto i 5 anni; porre fine alle pandemie di AIDS,
+tubercolosi e malattie trascurate; ridurre la mortalità da malattie non
+trasmissibili attraverso la prevenzione e la cura e promuovere la salute
+mentale e il benessere; rafforzare la prevenzione en il trattamento di abusi
+di sostanze; dimezzare il numero di decessi a livello mondiale e le lesioni da
+incidenti stradali; garantire l’accesso universale ai servizi di assistenza
+sanitaria universale; ridurre sostanzialmente il numero di decessi e malattie
+da sostanze chimiche pericolose e da inquinamento di aria, acqua e suolo;
+sostenere la ricerca e lo sviluppo di vaccini e farmaci per le malattie
+trasmissibili e non trasmissibili che colpiscono soprattutto i paesi in via di
+sviluppo; aumentare sostanzialmente il finanziamento della sanità e il
+reclutamento, lo sviluppo. La formazione e il mantenimento del personale
+sanitario nei paesi in via di sviluppo; rafforzare la capacità di tutti i
+paesi, per la prevenzione e la gestione dei rischi per la salute nazionale e
+globale, e tutto ciò entro l’anno 2030.
 
 #### Indice
 
-- [Italiano](#Salute-e-Benessere)
+- [Italiano](#introduzione)
 - [Informatica](#le-città-del-futuro)
 - [Sistemi e reti](#smart-city-in-italia)
 - [Inglese](#the-city-of-the-future)
 - [Religione](#religione-e-benessere)
-
-## [Salute e Benessere]( https://www.youtube.com/watch?v=m4sjGouK8Dk)
-Gli Obiettivi per lo Sviluppo, rappresentano obiettivi comuni su un insieme di questioni importanti per lo sviluppo: “Obiettivi Comuni” significa che nessuno ne è escluso. 
-Per raggiungere lo Sviluppo Sostenibile, è fondamentale garantire una vita sana e promuovere il benessere di tutti a tutte le età. Sono necessari molti sforzi per sradicare completamente un’ampia varietà di malattie e affrontare numerose e diverse questioni relative alla salute, siano esse recenti o persistenti nel tempo. Gli Obiettivi del target 3 riguardano, appunto, la salute e il benessere degli individui. [L’Obiettivo 3](https://asvis.it/goal-e-target-obiettivi-e-traguardi-per-il-2030/) conta di ridurre il tasso di mortalità materna globale; mettere fine alle morti di neonati e bambini sotto i 5 anni; porre fine alle pandemie di AIDS, tubercolosi e malattie trascurate; ridurre la mortalità da malattie non trasmissibili attraverso la prevenzione e la cura e promuovere la salute mentale e il benessere; rafforzare la prevenzione en il trattamento di abusi di sostanze; dimezzare il numero di decessi a livello mondiale e le lesioni da incidenti stradali; garantire l’accesso universale ai servizi di assistenza sanitaria universale; ridurre sostanzialmente il numero di decessi e malattie da sostanze chimiche pericolose e da inquinamento di aria, acqua e suolo; sostenere la ricerca e lo sviluppo di vaccini e farmaci per le malattie trasmissibili e non trasmissibili che colpiscono soprattutto i paesi in via di sviluppo; aumentare sostanzialmente il finanziamento della sanità e il reclutamento, lo sviluppo. La formazione e il mantenimento del personale sanitario nei paesi in via di sviluppo; rafforzare la capacità di tutti i paesi, per la prevenzione e la gestione dei rischi per la salute nazionale e globale, e tutto ciò entro l’anno 2030.
 
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
@@ -118,26 +141,24 @@ a nerdy CEO who strives to think about exciting-yet-realistic technologies
 video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
 believes those make sense, including:
 
-<!-- TODO:  <29-01-21, Daniel Falbo>
+<!-- TODO:
 - **electric self-driving land vehicles**:
   - **tunnel networks**
   - **semi-trucks**
   - **autonomous shared cars**
+- **hyperloop**
 -->
 
 - **reusable rockets as cheap as ordinary aircrafts and capable of
-transporting people or cargo from city to city**:
-rockets would allow us to fly from New York City to Shangai in 39 minutes or
-Sidney to London in 59 minutes. If we didn't reuse planes, it would cost up to
-$250.000.000 to fly one way, but because we reuse them tens of thousands of
-times, it becomes affordable. That also applies to rockets! A
-[SpaceX](https://www.spacex.com) rocket costs about $60.000.000, if we could
-reuse it 1000 times, it would then costs $60.000 per flight and by carrying a
-number of people, we could get the cost of a rocket flight down to the price
-of an economy aircraft ticket.
-<!-- TODO:  <29-01-21, Daniel Falbo>
-- **hyperloop**
-  -->
+  transporting people or cargo from city to city**:
+  rockets would allow us to fly from New York City to Shangai in 39 minutes or
+  Sidney to London in 59 minutes. If we didn't reuse planes, it would cost up to
+  $250.000.000 to fly one way, but because we reuse them tens of thousands of
+  times, it becomes affordable. That also applies to rockets! A
+  [SpaceX](https://www.spacex.com) rocket costs about $60.000.000, if we could
+  reuse it 1000 times, it would then costs $60.000 per flight and by carrying a
+  number of people, we could get the cost of a rocket flight down to the price
+  of an economy aircraft ticket.
 - **gamified learning**:
   you may think that this has nothing to do with smart cities at first, but
   ask yourself the question "how should kids and adults spend their time in
@@ -149,14 +170,12 @@ of an economy aircraft ticket.
   solving, ethics and, in general, things that allow one to create and
   understand or predict the future.
 
-Even if a lot of people are currently working hard for almost all of these
-amazing technologies, they're not yet ready. So, now we described the city of
-**the future**, but let's also take a look at the smartest city of **today**,
+Even if people are already working hard on almost all of these astonishing
+technologies, we're not ready yet. So, now we described the city of **the
+future**, but let's also take a look at the smartest city of **today**,
 [London](https://www.forbes.com/sites/iese/2020/07/08/these-are-the-10-smartest-cities-in-the-world-for-2020).
 
-<!-- TODO:  <29-01-21, Daniel Falbo>
-Why is London the smartest city in the world rn?
--->
+<!-- TODO: But why is London the smartest city in the world rn?  -->
 
 ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
