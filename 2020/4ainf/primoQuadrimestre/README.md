@@ -113,7 +113,7 @@ a nerdy CEO who strives to think about exciting-yet-realistic technologies
 video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
 believes those make sense, including:
 
-##[Religione e bnessere](https://youtu.be/PB7SWg2I1zI)
+## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
 Qual è il rapporto tra religione e benessere?
 A questa domanda risponde in maniera esaustiva la seconda edizione 
