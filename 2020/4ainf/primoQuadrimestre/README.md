@@ -156,7 +156,7 @@ city inoltre presenta alcune caratteristiche per essere chiamata tale:
   dei trasporti rendendoli accessibili ed economici.
 
 - **Smart Enviroment**:
-  Alla base dello sviluppo di una città intelligente deve esserci lo sviluppo
+  alla base dello sviluppo di una città intelligente deve esserci lo sviluppo
   sostenibile: rispetto dell’ambiente circostante, utilizzo corretto delle
   risorse naturali ed efficienza energetica sono gli obiettivi da raggiungere.
 
