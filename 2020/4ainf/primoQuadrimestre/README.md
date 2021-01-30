@@ -2,6 +2,8 @@
   <img src="images/smartCity.png" alt="Smart City">
 </div>
 
+#
+
 Introduzione.
 
 #### Indice
