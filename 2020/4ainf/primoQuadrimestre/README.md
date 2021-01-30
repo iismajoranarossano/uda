@@ -176,28 +176,53 @@ technologies, we're not ready yet. So, now we described the city of **the
 future**, but let's also take a look at the smartest city of **today**,
 [London](https://www.forbes.com/sites/iese/2020/07/08/these-are-the-10-smartest-cities-in-the-world-for-2020).
 
-As one of the world’s great cities, London has evolved over centuries to deliver the housing, transport and infrastructure it needs.
-Against a global backdrop of accelerating urbanisation and revolutionary digital transformation, the Mayor has set out his ambition to make London the world’s smartest city. Today, London is already a hub for smart mobility, cleantech, proptech and govtech, with many more opportunities for further cross-sectoral development in this capital of convergence, here is why:
+As one of the world’s great cities, London has evolved over centuries to
+deliver the housing, transport and infrastructure it needs. Against a global
+backdrop of accelerating urbanisation and revolutionary digital
+transformation, the Mayor has set out his ambition to make London the world’s
+smartest city. Today, London is already a hub for smart mobility, cleantech,
+proptech and govtech, with many more opportunities for further cross-sectoral
+development in this capital of convergence, here is why:
 
 - **The future of transport**:
-  London is a leader in smart mobility, with an ambitious goal that by 2041, 80% of journeys in the capital will be made on foot, on a bicycle, or on public transport. The city’s transport agency – Transport for London, also has a unique and ambitious approach to innovation, as exemplified in the London RoadLab initiative.
-  
-- **A cleantech leader with market potentialA cleantech leader with market potential**:
-  The Mayor of London wants to ensure London is a zero-carbon city by 2050. The value of London’s low carbon goods and services sector was worth £39.7bn in 2017/18, having grown by more than nine percent over the last two years and expected to continue at more than seven percent to 2021/22.
+  London is a leader in smart mobility, with an ambitious goal that by 2041,
+  80% of journeys in the capital will be made on foot, on a bicycle, or on
+  public transport. The city’s transport agency – Transport for London, also
+  has a unique and ambitious approach to innovation, as exemplified in the
+  London RoadLab initiative.
+- **A cleantech leader with market potentialA cleantech leader with market
+  potential**:
+  The Mayor of London wants to ensure London is a zero-carbon city by 2050.
+  The value of London’s low carbon goods and services sector was worth £39.7bn
+  in 2017/18, having grown by more than nine percent over the last two years
+  and expected to continue at more than seven percent to 2021/22.
 
-  Find out more about [London's cleantech sector.](https://www.business.london/invest/sectors/urban/cleantech)
+  Find out more about [London's cleantech
+  sector.](https://www.business.london/invest/sectors/urban/cleantech)
 
 - **Where real estate meets tech**:
-  As the largest commercial real estate investment market in the world and home to a globally-renowned tech centre, it’s no surprise that London is a hotbed for proptech.
+  As the largest commercial real estate investment market in the world and
+  home to a globally-renowned tech centre, it’s no surprise that London is a
+  hotbed for proptech.
 
-  From dedicated accelerators and incubators, such as [Pi Labs](https://pilabs.co.uk/) and [Geovation](https://geovation.uk/), to London success stories (think [Zoopla](https://www.zoopla.co.uk/) and [Purplebricks](https://www.purplebricks.co.uk/)), the capital is building the foundations for an exciting future.
+  From dedicated accelerators and incubators, such as [Pi
+  Labs](https://pilabs.co.uk/) and [Geovation](https://geovation.uk/), to
+  London success stories (think [Zoopla](https://www.zoopla.co.uk/) and
+  [Purplebricks](https://www.purplebricks.co.uk/)), the capital is building
+  the foundations for an exciting future.
 
-  Find out more about [London's proptech sector.](https://www.business.london/invest/sectors/urban/proptech)
+  Find out more about [London's proptech
+  sector.](https://www.business.london/invest/sectors/urban/proptech)
 
 - **Accessible, responsive, citizen-oriented public services**:
-  London is transforming its public services to better meet the needs of its citizens. The city has long been recognised as a leader in mobilising open data for public benefit, as evidenced through the London Datastore and Transport for London’s open data policy.
+  London is transforming its public services to better meet the needs of its
+  citizens. The city has long been recognised as a leader in mobilising open
+  data for public benefit, as evidenced through the London Datastore and
+  Transport for London’s open data policy.
 
-  The London Office of Technology & Innovation (LOTI) is set to build common capability and drive the opportunity to collaborate and scale digital innovation across the capital’s local authorities.
+  The London Office of Technology & Innovation (LOTI) is set to build common
+  capability and drive the opportunity to collaborate and scale digital
+  innovation across the capital’s local authorities.
 
 ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
