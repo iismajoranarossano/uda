@@ -147,7 +147,7 @@ believes those make sense, including:
   - **tunnel networks**
   - **semi-trucks**
   - **autonomous shared cars**
-- **hyperloop**
+- **hyperloop**:
 -->
 
 - **reusable rockets as cheap as ordinary aircrafts and capable of
