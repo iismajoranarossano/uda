@@ -2,11 +2,20 @@
   <img src="images/smartCity.png" alt="Smart City">
 </div>
 
-# [Introduzione](https://www.youtube.com/watch?v=m4sjGouK8Dk)
-
 L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le
 persone, il pianeta e la proprietà. Essa ingloba 17 Obiettivi per lo Sviluppo
 Sostenibile, in un grande programma di azione per un totale di 169 traguardi.
+
+#### Indice
+
+- [Italiano](#salute-e-benessere)
+- [Informatica](#le-città-del-futuro)
+- [Sistemi e reti](#smart-city-in-italia)
+- [Inglese](#the-city-of-the-future)
+- [Religione](#religione-e-benessere)
+
+## [Salute e benessere](https://www.youtube.com/watch?v=m4sjGouK8Dk)
+
 Gli Obiettivi per lo Sviluppo, rappresentano obiettivi comuni su un insieme di
 questioni importanti per lo sviluppo: “Obiettivi Comuni” significa che nessuno
 ne è escluso. Per raggiungere lo Sviluppo Sostenibile, è fondamentale
@@ -32,14 +41,6 @@ reclutamento, lo sviluppo. La formazione e il mantenimento del personale
 sanitario nei paesi in via di sviluppo; rafforzare la capacità di tutti i
 paesi, per la prevenzione e la gestione dei rischi per la salute nazionale e
 globale, e tutto ciò entro l’anno 2030.
-
-#### Indice
-
-- [Italiano](#introduzione)
-- [Informatica](#le-città-del-futuro)
-- [Sistemi e reti](#smart-city-in-italia)
-- [Inglese](#the-city-of-the-future)
-- [Religione](#religione-e-benessere)
 
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
