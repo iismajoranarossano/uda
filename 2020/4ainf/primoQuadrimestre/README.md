@@ -43,7 +43,7 @@ globale, e tutto ciò entro l’anno 2030.
 - [Inglese](#the-city-of-the-future)
 - [Religione](#religione-e-benessere)
 
-## [Età dei lumi](#https://www.treccani.it/enciclopedia/l-eta-dei-lumi-le-scienze-della-vita-l-epidemiologia-e-la-medicina-di-stato_%28Storia-della-Scienza%29/)
+## [Età dei lumi](https://www.treccani.it/enciclopedia/l-eta-dei-lumi-le-scienze-della-vita-l-epidemiologia-e-la-medicina-di-stato_%28Storia-della-Scienza%29/)
   
 L’età dei lumi - L’illuminismo è il più importante movimento intellettuale dell’Europa del 700, esprime la convinzione che l’uomo deve essere illuminato cioè guidato dalla luce della ragione. L’illuminismo ha origine in Inghilterra nel fine 600 dal filosofo John Locke (1632-1704), si sviluppò intensamente in Francia, dal 630 al 700.Secondo Venturi l’Illuminismo raggiunse il suo massimo splendore nel 1763 con la fine delle guerre e terminò nel 1789 con la rivoluzione francese e questa è l’epoca della primavera dei lumi. La centralità della ragione. La caratteristica dell’Illuminismo fu la fiducia della ragione ciò che tutti gli uomini hanno e che consente loro di risolvere i problemi, non si tratta di una fiducia cieca: alcuni illuministi riconobbero l’importanza del sentimento. Gli Illuministi respinsero la filosofia razionale di Cartesio che pretendeva di fare della ragione l’unica fonte della conoscenza umana: al contrario riconobbero che la ragione andava applicata all’esperienza secondo il metodo della scienza sperimentale di Galileo e Newton.
  
