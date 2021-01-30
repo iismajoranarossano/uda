@@ -134,14 +134,24 @@ of an economy aircraft ticket.
 - **hyperloop**
   -->
 - **gamified learning**:
-  you may think that this has nothing to do with smart cities at first, but ask
-  yourself the question "how should kids and adults spend their time in the city
-  of the future, where there are fewer and fewer jobs that robots can't do
-  better than us?" Elon says that a universal income will be necessary and
-  schools shouldn't make kids go through different grades like an assembly line
-  since children have different abilities. Schools should instead gamify the
-  learning experience and focus on teaching problem solving, ethics and, in
-  general, things that allow one to create and understand or predict the future.
+  you may think that this has nothing to do with smart cities at first, but
+  ask yourself the question "how should kids and adults spend their time in
+  the city of the future, where there are fewer and fewer jobs that robots
+  can't do better than us?" Elon says that a universal income will be
+  necessary and schools shouldn't make kids go through different grades like
+  an assembly line since children have different abilities. Schools should
+  instead gamify the learning experience and focus on teaching problem
+  solving, ethics and, in general, things that allow one to create and
+  understand or predict the future.
+
+Even if a lot of people are currently working hard for almost all of these
+amazing technologies, they're not yet ready. So, now we described the city of
+**the future**, but let's also take a look at the smartest city of **today**,
+[London](https://www.forbes.com/sites/iese/2020/07/08/these-are-the-10-smartest-cities-in-the-world-for-2020).
+
+<!-- TODO:  <29-01-21, Daniel Falbo>
+Why is London the smartest city in the world rn?
+-->
 
 ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
