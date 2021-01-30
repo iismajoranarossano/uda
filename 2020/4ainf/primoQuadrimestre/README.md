@@ -2,6 +2,8 @@
   <img src="images/smartCity.png" alt="Smart City">
 </div>
 
+#
+
 L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le
 persone, il pianeta e la proprietà. Essa ingloba 17 Obiettivi per lo Sviluppo
 Sostenibile, in un grande programma di azione per un totale di 169 traguardi.
