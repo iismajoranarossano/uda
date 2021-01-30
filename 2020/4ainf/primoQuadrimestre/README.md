@@ -37,11 +37,56 @@ globale, e tutto ciò entro l’anno 2030.
 #### Indice
 
 - [Italiano](#introduzione)
+- [Storia](#età-dei-lumi)
 - [Informatica](#le-città-del-futuro)
 - [Sistemi e reti](#smart-city-in-italia)
 - [Inglese](#the-city-of-the-future)
 - [Religione](#religione-e-benessere)
 
+## [Età dei lumi](#https://www.treccani.it/enciclopedia/l-eta-dei-lumi-le-scienze-della-vita-l-epidemiologia-e-la-medicina-di-stato_%28Storia-della-Scienza%29/)
+  
+L’età dei lumi - L’illuminismo è il più importante movimento intellettuale dell’Europa del 700, esprime la convinzione che l’uomo deve essere illuminato cioè guidato dalla luce della ragione. L’illuminismo ha origine in Inghilterra nel fine 600 dal filosofo John Locke (1632-1704), si sviluppò intensamente in Francia, dal 630 al 700.Secondo Venturi l’Illuminismo raggiunse il suo massimo splendore nel 1763 con la fine delle guerre e terminò nel 1789 con la rivoluzione francese e questa è l’epoca della primavera dei lumi. La centralità della ragione. La caratteristica dell’Illuminismo fu la fiducia della ragione ciò che tutti gli uomini hanno e che consente loro di risolvere i problemi, non si tratta di una fiducia cieca: alcuni illuministi riconobbero l’importanza del sentimento. Gli Illuministi respinsero la filosofia razionale di Cartesio che pretendeva di fare della ragione l’unica fonte della conoscenza umana: al contrario riconobbero che la ragione andava applicata all’esperienza secondo il metodo della scienza sperimentale di Galileo e Newton.
+ 
+- **Teorie del contagio**:
+
+ Verso la fine del XVII sec. si era manifestato tra i medici un rinnovato interesse per l'osservazione della Natura e la 
+ raccolta di dati in seguito alla diffusione del metodo induttivo di Francis Bacon (1561-1626), all'esperienza di una serie
+ di disastrose epidemie, delle quali la patologia umorale non riusciva a rendere ragione, e alla disponibilità di nuovi 
+ strumenti matematici, come i logaritmi, inventati da John Napier (1550-1617). Economisti, scienziati e riformatori sociali
+ si impegnarono nella ricerca di nuove interpretazioni e soluzioni dei fenomeni naturali e politici. In Inghilterra,
+ personaggi come John Graunt, William Petty, Edmond Halley, Thomas Sydenham e Robert Hooke dedicarono la loro attenzione
+ allo studio degli archivi civili e delle condizioni climatiche; i loro sforzi congiunti portarono a un perfezionamento
+ delle teorie del contagio e della 'costituzione epidemica', ossia dell'influenza delle condizioni miasmatiche e
+ atmosferiche.
+ 
+- **Inoculazione e vaccinazione**:
+
+ Il vaiolo era una delle malattie più temute nel XVIII sec. ed era considerato un fatto comune e normale, una tappa
+ ineludibile del processo di crescita e di invecchiamento. Nessuno sembrava poter sfuggire alle devastazioni che questa
+ malattia produceva nel corso normale dell'esistenza e tutti vivevano nell'attesa terrorizzante di una sua visita. Non si
+ disponeva di nessuna cura efficace contro il vaiolo, cura che non esiste neppure oggi, a parte la somministrazione di
+ antibiotici per combattere le infezioni secondarie. La cura tradizionale, basata sulla patologia umorale elaborata dal
+ medico arabo al-Rāzī (m. 925), al quale generalmente si attribuisce la prima descrizione accurata del morbillo e del
+ vaiolo, era basata su un trattamento 'caldo' e ‘rosso'. Essa consisteva infatti nella somministrazione di bevande
+ speziate calde e di dosi segrete di triaca per favorire la traspirazione; il paziente veniva tenuto costantemente a
+ letto, sotto una pesante coltre di coperte di lana e di imbottite, perfino d'estate, per produrre la massima sudorazione.
+
+- **Igiene pubblica e medicina di Stato**:
+
+ Nella seconda metà del XVIII sec., l'influsso esercitato sia dal cosiddetto tournant des mentalités sia dall'assolutismo
+ illuminato convinse le autorità politiche di alcuni Stati europei a fare un passo in avanti per migliorare il benessere
+ della popolazione, adottando le misure necessarie a combattere le malattie epidemiche. Il problema più urgente era quello
+ di favorire la creazione di condizioni di vita e di lavoro più salubri, in base al principio secondo cui il primo dovere
+ di uno Stato era quello di assicurare ai sudditi il più alto livello di benessere e di sicurezza possibile. In concreto
+ ciascun governante interpretava a modo suo questo programma e decideva, con l'aiuto dei suoi consiglieri, come
+ raggiungere l'obiettivo. Gli obblighi del sovrano verso i propri sudditi erano rappresentati in modo analogo a quelli di
+ un padre verso i suoi figli. Inoltre, dato che l'autorità dei monarchi era fondata sul diritto divino, essi erano tenuti
+ a comportarsi con i sudditi con la stessa benevolenza dimostrata da Dio nei confronti dell'umanità. Perfino il più
+ illuminato dei principi, tuttavia, si raffigurava il suo popolo come un soggetto passivo della benigna sollecitudine del
+ governo, che si esprimeva nella consultazione degli esperti e nell'adozione delle misure ritenute più opportune. L'idea
+ di domandare ai propri sudditi di cosa avessero bisogno, o quali aspetti della loro esistenza avrebbero voluto
+ migliorare, era del tutto estranea alla filosofia dell'assolutismo illuminato.
+  
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
 La smart city è una città che gestisce le risorse in modo intelligente, mira a
@@ -94,7 +139,7 @@ principali](https://www.lumi4innovation.it/smart-city-cose-come-funziona-caratte
 di una città intelligente, troviamo infatti:
 
 - **Partecipazione e responsabilità condivisa**:
-  Informazione e comunicazione sono fondamentali per permettere ai cittadini
+  informazione e comunicazione sono fondamentali per permettere ai cittadini
   di interagire, dialogare e partecipare allo sviluppo della città e alle
   decisioni dell’amministrazione locale. Per questo motivo la città
   intelligente deve potersi appoggiare a un sistema informatico che permetta a
@@ -104,14 +149,14 @@ di una città intelligente, troviamo infatti:
   promuovere lo sviluppo delle attività e del commercio in città.
 
 - **Smart building o edifici intelligenti**:
-  Gli edifici di nuova costruzione o che subiscono un intervento di
+  gli edifici di nuova costruzione o che subiscono un intervento di
   riqualificazione devono rispondere a precisi standard di efficienza
   energetica e smartness. Lo smart building è il tassello fondamentale per la
   costruzione di una smart city e fa parte del capitale infrastrutturale e
   sociale.
 
 - **Efficienza energetica e sostenibilità ambientale**:
-  Per gestire in modo efficiente l’energia e ottenere risultati di risparmio
+  per gestire in modo efficiente l’energia e ottenere risultati di risparmio
   energetico bisogna puntare alla creazione di una smart grid o di sistemi di
   smart energy. Una città intelligente deve anche puntare sull’uso delle
   energie rinnovabili e su sistemi intelligenti di gestione dei rifiuti in
@@ -120,14 +165,14 @@ di una città intelligente, troviamo infatti:
   efficiente.
 
 - **Sicurezza Integrata**:
-  In una città intelligente, la sicurezza è un aspetto importantissimo.
+  in una città intelligente, la sicurezza è un aspetto importantissimo.
   Sicurezza significa minore criminalità e maggiore attenzione alle aree
   critiche come le periferie ad esempio. L’utilizzo di tecnologie innovative e
   sistemi di sicurezza sempre più interconnessi e integrati permette di
   raggiungere risultati importanti in questo ambito.
 
 - **Trasporto e mobilità**:
-  Smart mobility, e-mobility ma anche soluzioni di smart parking. Perché una
+  smart mobility, e-mobility ma anche soluzioni di smart parking. Perché una
   città sia efficiente, più vivibile e intelligente, bisogna andare verso
   soluzioni che snelliscano il traffico e riducano l’inquinamento.
 
@@ -176,52 +221,7 @@ technologies, we're not ready yet. So, now we described the city of **the
 future**, but let's also take a look at the smartest city of **today**,
 [London](https://www.forbes.com/sites/iese/2020/07/08/these-are-the-10-smartest-cities-in-the-world-for-2020).
 
-As one of the world’s great cities, London has evolved over centuries to
-deliver the housing, transport and infrastructure it needs. Against a global
-backdrop of accelerating urbanisation and revolutionary digital
-transformation, the Mayor has set out his ambition to make London the world’s
-smartest city. Today, London is already a hub for smart mobility, cleantech,
-proptech and govtech, with many more opportunities for further cross-sectoral
-development in this capital of convergence, here is why:
-
-- **The future of transport**:
-  London is a leader in smart mobility, with an ambitious goal that by 2041,
-  80% of journeys in the capital will be made on foot, on a bicycle, or on
-  public transport. The city’s transport agency – Transport for London, also
-  has a unique and ambitious approach to innovation, as exemplified in the
-  London RoadLab initiative.
-- **A cleantech leader with market potential**:
-  The Mayor of London wants to ensure London is a zero-carbon city by 2050.
-  The value of London’s low carbon goods and services sector was worth £39.7bn
-  in 2017/18, having grown by more than nine percent over the last two years
-  and expected to continue at more than seven percent to 2021/22.
-
-  Find out more about [London's cleantech
-  sector.](https://www.business.london/invest/sectors/urban/cleantech)
-
-- **Where real estate meets tech**:
-  As the largest commercial real estate investment market in the world and
-  home to a globally-renowned tech centre, it’s no surprise that London is a
-  hotbed for proptech.
-
-  From dedicated accelerators and incubators, such as [Pi
-  Labs](https://pilabs.co.uk/) and [Geovation](https://geovation.uk/), to
-  London success stories (think [Zoopla](https://www.zoopla.co.uk/) and
-  [Purplebricks](https://www.purplebricks.co.uk/)), the capital is building
-  the foundations for an exciting future.
-
-  Find out more about [London's proptech
-  sector.](https://www.business.london/invest/sectors/urban/proptech)
-
-- **Accessible, responsive, citizen-oriented public services**:
-  London is transforming its public services to better meet the needs of its
-  citizens. The city has long been recognised as a leader in mobilising open
-  data for public benefit, as evidenced through the London Datastore and
-  Transport for London’s open data policy.
-
-  The London Office of Technology & Innovation (LOTI) is set to build common
-  capability and drive the opportunity to collaborate and scale digital
-  innovation across the capital’s local authorities.
+<!-- TODO: But why is London the smartest city in the world rn?  -->
 
 ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
