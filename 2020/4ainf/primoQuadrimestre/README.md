@@ -9,7 +9,7 @@ Introduzione dell'articolo. Descrizione goal agenda 2030…
 #### Indice
 
 - [Informatica](#le-città-del-futuro)
-- [Sistemi e reti](#Smart-city:-cos’è,-come-funziona,-caratteristiche-ed-esempi-in-Italia)
+- [Sistemi e reti](#smart-city-in-italia)
 - [Inglese](#the-city-of-the-future)
 
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
@@ -31,7 +31,7 @@ Anche la mobilità diventa intelligente all’interno delle Smart cities: si pri
 - **Smart Enviroment**:
 Alla base dello sviluppo di una città intelligente deve esserci lo sviluppo sostenibile: rispetto dell’ambiente circostante, utilizzo corretto delle risorse naturali ed efficienza energetica sono gli obiettivi da raggiungere.
 
-## [Smart city: cos’è, come funziona, caratteristiche ed esempi in Italia]( https://www.economyup.it/mobilita/smart-city-cosa-sono-davvero-e-a-che-punto-siamo-in-italia/)
+## [Smart city in Italia](https://www.economyup.it/mobilita/smart-city-cosa-sono-davvero-e-a-che-punto-siamo-in-italia/)
 
 Smart City è un termine ormai diventato di moda. E, anche se a volte viene utilizzato impropriamente come leva di marketing da aziende e amministrazioni locali, si riferisce all’ideale collettivo della città del futuro. Ma vediamo qual è il vero significato di “smart city” o città intelligente. Una smart city è un’area urbana in cui, grazie all’utilizzo delle tecnologie digitali e più in generale dell’innovazione tecnologica, è possibile ottimizzare e migliorare le infrastrutture e i servizi ai cittadini rendendoli più efficienti. Tra i punti fondamentali e le [caratteristiche principali]( https://www.lumi4innovation.it/smart-city-cose-come-funziona-caratteristiche-ed-esempi-in-italia/) di una città intelligente, troviamo infatti:
 
