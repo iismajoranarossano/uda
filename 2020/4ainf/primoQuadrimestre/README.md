@@ -49,49 +49,79 @@ paesi, per la prevenzione e la gestione dei rischi per la salute nazionale e
 globale, e tutto ciò entro l’anno 2030.
 
 ## [Età dei lumi](https://www.treccani.it/enciclopedia/l-eta-dei-lumi-le-scienze-della-vita-l-epidemiologia-e-la-medicina-di-stato_%28Storia-della-Scienza%29/)
-  
-L’età dei lumi - L’illuminismo è il più importante movimento intellettuale dell’Europa del 700, esprime la convinzione che l’uomo deve essere illuminato cioè guidato dalla luce della ragione. L’illuminismo ha origine in Inghilterra nel fine 600 dal filosofo John Locke (1632-1704), si sviluppò intensamente in Francia, dal 630 al 700.Secondo Venturi l’Illuminismo raggiunse il suo massimo splendore nel 1763 con la fine delle guerre e terminò nel 1789 con la rivoluzione francese e questa è l’epoca della primavera dei lumi. La centralità della ragione. La caratteristica dell’Illuminismo fu la fiducia della ragione ciò che tutti gli uomini hanno e che consente loro di risolvere i problemi, non si tratta di una fiducia cieca: alcuni illuministi riconobbero l’importanza del sentimento. Gli Illuministi respinsero la filosofia razionale di Cartesio che pretendeva di fare della ragione l’unica fonte della conoscenza umana: al contrario riconobbero che la ragione andava applicata all’esperienza secondo il metodo della scienza sperimentale di Galileo e Newton.
- 
+
+L’età dei lumi - L’illuminismo è il più importante movimento intellettuale
+dell’Europa del 700, esprime la convinzione che l’uomo deve essere illuminato
+cioè guidato dalla luce della ragione. L’illuminismo ha origine in Inghilterra
+nel fine 600 dal filosofo John Locke (1632-1704), si sviluppò intensamente in
+Francia, dal 630 al 700.Secondo Venturi l’Illuminismo raggiunse il suo massimo
+splendore nel 1763 con la fine delle guerre e terminò nel 1789 con la
+rivoluzione francese e questa è l’epoca della primavera dei lumi. La
+centralità della ragione. La caratteristica dell’Illuminismo fu la fiducia
+della ragione ciò che tutti gli uomini hanno e che consente loro di risolvere
+i problemi, non si tratta di una fiducia cieca: alcuni illuministi riconobbero
+l’importanza del sentimento. Gli Illuministi respinsero la filosofia razionale
+di Cartesio che pretendeva di fare della ragione l’unica fonte della
+conoscenza umana: al contrario riconobbero che la ragione andava applicata
+all’esperienza secondo il metodo della scienza sperimentale di Galileo e
+Newton.
+
 - **Teorie del contagio**:
 
- Verso la fine del XVII sec. si era manifestato tra i medici un rinnovato interesse per l'osservazione della Natura e la 
- raccolta di dati in seguito alla diffusione del metodo induttivo di Francis Bacon (1561-1626), all'esperienza di una serie
- di disastrose epidemie, delle quali la patologia umorale non riusciva a rendere ragione, e alla disponibilità di nuovi 
- strumenti matematici, come i logaritmi, inventati da John Napier (1550-1617). Economisti, scienziati e riformatori sociali
- si impegnarono nella ricerca di nuove interpretazioni e soluzioni dei fenomeni naturali e politici. In Inghilterra,
- personaggi come John Graunt, William Petty, Edmond Halley, Thomas Sydenham e Robert Hooke dedicarono la loro attenzione
- allo studio degli archivi civili e delle condizioni climatiche; i loro sforzi congiunti portarono a un perfezionamento
- delle teorie del contagio e della 'costituzione epidemica', ossia dell'influenza delle condizioni miasmatiche e
- atmosferiche.
- 
+Verso la fine del XVII sec. si era manifestato tra i medici un rinnovato
+interesse per l'osservazione della Natura e la raccolta di dati in seguito
+alla diffusione del metodo induttivo di Francis Bacon (1561-1626),
+all'esperienza di una serie di disastrose epidemie, delle quali la patologia
+umorale non riusciva a rendere ragione, e alla disponibilità di nuovi
+strumenti matematici, come i logaritmi, inventati da John Napier (1550-1617).
+Economisti, scienziati e riformatori sociali si impegnarono nella ricerca di
+nuove interpretazioni e soluzioni dei fenomeni naturali e politici. In
+Inghilterra, personaggi come John Graunt, William Petty, Edmond Halley, Thomas
+Sydenham e Robert Hooke dedicarono la loro attenzione allo studio degli
+archivi civili e delle condizioni climatiche; i loro sforzi congiunti
+portarono a un perfezionamento delle teorie del contagio e della 'costituzione
+epidemica', ossia dell'influenza delle condizioni miasmatiche e atmosferiche.
+
 - **Inoculazione e vaccinazione**:
 
- Il vaiolo era una delle malattie più temute nel XVIII sec. ed era considerato un fatto comune e normale, una tappa
- ineludibile del processo di crescita e di invecchiamento. Nessuno sembrava poter sfuggire alle devastazioni che questa
- malattia produceva nel corso normale dell'esistenza e tutti vivevano nell'attesa terrorizzante di una sua visita. Non si
- disponeva di nessuna cura efficace contro il vaiolo, cura che non esiste neppure oggi, a parte la somministrazione di
- antibiotici per combattere le infezioni secondarie. La cura tradizionale, basata sulla patologia umorale elaborata dal
- medico arabo al-Rāzī (m. 925), al quale generalmente si attribuisce la prima descrizione accurata del morbillo e del
- vaiolo, era basata su un trattamento 'caldo' e ‘rosso'. Essa consisteva infatti nella somministrazione di bevande
- speziate calde e di dosi segrete di triaca per favorire la traspirazione; il paziente veniva tenuto costantemente a
- letto, sotto una pesante coltre di coperte di lana e di imbottite, perfino d'estate, per produrre la massima sudorazione.
+Il vaiolo era una delle malattie più temute nel XVIII sec. ed era considerato
+un fatto comune e normale, una tappa ineludibile del processo di crescita e di
+invecchiamento. Nessuno sembrava poter sfuggire alle devastazioni che questa
+malattia produceva nel corso normale dell'esistenza e tutti vivevano
+nell'attesa terrorizzante di una sua visita. Non si disponeva di nessuna cura
+efficace contro il vaiolo, cura che non esiste neppure oggi, a parte la
+somministrazione di antibiotici per combattere le infezioni secondarie. La
+cura tradizionale, basata sulla patologia umorale elaborata dal medico arabo
+al-Rāzī (m. 925), al quale generalmente si attribuisce la prima descrizione
+accurata del morbillo e del vaiolo, era basata su un trattamento 'caldo' e
+‘rosso'. Essa consisteva infatti nella somministrazione di bevande speziate
+calde e di dosi segrete di triaca per favorire la traspirazione; il paziente
+veniva tenuto costantemente a letto, sotto una pesante coltre di coperte di
+lana e di imbottite, perfino d'estate, per produrre la massima sudorazione.
 
 - **Igiene pubblica e medicina di Stato**:
 
- Nella seconda metà del XVIII sec., l'influsso esercitato sia dal cosiddetto tournant des mentalités sia dall'assolutismo
- illuminato convinse le autorità politiche di alcuni Stati europei a fare un passo in avanti per migliorare il benessere
- della popolazione, adottando le misure necessarie a combattere le malattie epidemiche. Il problema più urgente era quello
- di favorire la creazione di condizioni di vita e di lavoro più salubri, in base al principio secondo cui il primo dovere
- di uno Stato era quello di assicurare ai sudditi il più alto livello di benessere e di sicurezza possibile. In concreto
- ciascun governante interpretava a modo suo questo programma e decideva, con l'aiuto dei suoi consiglieri, come
- raggiungere l'obiettivo. Gli obblighi del sovrano verso i propri sudditi erano rappresentati in modo analogo a quelli di
- un padre verso i suoi figli. Inoltre, dato che l'autorità dei monarchi era fondata sul diritto divino, essi erano tenuti
- a comportarsi con i sudditi con la stessa benevolenza dimostrata da Dio nei confronti dell'umanità. Perfino il più
- illuminato dei principi, tuttavia, si raffigurava il suo popolo come un soggetto passivo della benigna sollecitudine del
- governo, che si esprimeva nella consultazione degli esperti e nell'adozione delle misure ritenute più opportune. L'idea
- di domandare ai propri sudditi di cosa avessero bisogno, o quali aspetti della loro esistenza avrebbero voluto
- migliorare, era del tutto estranea alla filosofia dell'assolutismo illuminato.
-  
+Nella seconda metà del XVIII sec., l'influsso esercitato sia dal cosiddetto
+tournant des mentalités sia dall'assolutismo illuminato convinse le autorità
+politiche di alcuni Stati europei a fare un passo in avanti per migliorare il
+benessere della popolazione, adottando le misure necessarie a combattere le
+malattie epidemiche. Il problema più urgente era quello di favorire la
+creazione di condizioni di vita e di lavoro più salubri, in base al principio
+secondo cui il primo dovere di uno Stato era quello di assicurare ai sudditi
+il più alto livello di benessere e di sicurezza possibile. In concreto ciascun
+governante interpretava a modo suo questo programma e decideva, con l'aiuto
+dei suoi consiglieri, come raggiungere l'obiettivo. Gli obblighi del sovrano
+verso i propri sudditi erano rappresentati in modo analogo a quelli di un
+padre verso i suoi figli. Inoltre, dato che l'autorità dei monarchi era
+fondata sul diritto divino, essi erano tenuti a comportarsi con i sudditi con
+la stessa benevolenza dimostrata da Dio nei confronti dell'umanità. Perfino il
+più illuminato dei principi, tuttavia, si raffigurava il suo popolo come un
+soggetto passivo della benigna sollecitudine del governo, che si esprimeva
+nella consultazione degli esperti e nell'adozione delle misure ritenute più
+opportune. L'idea di domandare ai propri sudditi di cosa avessero bisogno, o
+quali aspetti della loro esistenza avrebbero voluto migliorare, era del tutto
+estranea alla filosofia dell'assolutismo illuminato.
+
 ## [Le città del futuro](https://youtu.be/pik1DL2gyl8)
 
 La smart city è una città che gestisce le risorse in modo intelligente, mira a
@@ -274,16 +304,23 @@ development in this capital of convergence, here is why:
   innovation across the capital’s local authorities.
 
 ## [Sport e sedentarietà](https://www.youtube.com/watch?v=5diDs3NRRco)
-  
-   > Un mondo tecnologico per lo sport
-   
-   Sappiamo tutti come l’attività sportiva sia un bene per tutti, ci aiuta a stare bene fisicamente e mentalmente. Ma con l’avvento delle nuove tecnologie il mondo
-   dello sport, soprattutto dai giovani viene sempre più messo da parte. Per dare spazio ad una vita sedentaria. Dove ci si accantonerà sempre di più fino ad arrivare
-   a livelli estremi, la tecnologia nel mondo dello sport sta comunque facendo fare passi da gigante a livello competitivo, basta pensare alla palla volo dove ci sono
-   i computer che guardano al millimetro se la palla è stata toccata o meno, oppure nel calcio con il var per avere sempre di più margini di errori minimi, in
-   pochissime parole: la tecnologia per lo sport sta diventando essenziale, bisogna trovare il giusto compromesso, a livello personale non bisognerà mai abbandonare
-   se stessi per una partita ai videogiochi, e per lo sport a livello competitivo beh, solo il tempo saprà rispondere se le nuove tecnologia hanno aiutato o meno.
-   
+
+> Un mondo tecnologico per lo sport
+
+Sappiamo tutti come l’attività sportiva sia un bene per tutti, ci aiuta a
+stare bene fisicamente e mentalmente. Ma con l’avvento delle nuove tecnologie
+il mondo dello sport, soprattutto dai giovani viene sempre più messo da parte.
+Per dare spazio ad una vita sedentaria. Dove ci si accantonerà sempre di più
+fino ad arrivare a livelli estremi, la tecnologia nel mondo dello sport sta
+comunque facendo fare passi da gigante a livello competitivo, basta pensare
+alla palla volo dove ci sono i computer che guardano al millimetro se la palla
+è stata toccata o meno, oppure nel calcio con il var per avere sempre di più
+margini di errori minimi, in pochissime parole: la tecnologia per lo sport sta
+diventando essenziale, bisogna trovare il giusto compromesso, a livello
+personale non bisognerà mai abbandonare se stessi per una partita ai
+videogiochi, e per lo sport a livello competitivo beh, solo il tempo saprà
+rispondere se le nuove tecnologia hanno aiutato o meno.
+
 ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
 Qual è il rapporto tra religione e benessere? A questa domanda risponde in
