@@ -41,6 +41,7 @@ globale, e tutto ciò entro l’anno 2030.
 - [Informatica](#le-città-del-futuro)
 - [Sistemi e reti](#smart-city-in-italia)
 - [Inglese](#the-city-of-the-future)
+- [Ed.Fisica](#sport-e-sedentarietà)
 - [Religione](#religione-e-benessere)
 
 ## [Età dei lumi](https://www.treccani.it/enciclopedia/l-eta-dei-lumi-le-scienze-della-vita-l-epidemiologia-e-la-medicina-di-stato_%28Storia-della-Scienza%29/)
@@ -268,6 +269,17 @@ development in this capital of convergence, here is why:
   capability and drive the opportunity to collaborate and scale digital
   innovation across the capital’s local authorities.
 
+## [Sport e sedentarietà](https://www.youtube.com/watch?v=5diDs3NRRco)
+  
+   > Un mondo tecnologico per lo sport
+   
+   Sappiamo tutti come l’attività sportiva sia un bene per tutti, ci aiuta a stare bene fisicamente e mentalmente. Ma con l’avvento delle nuove tecnologie il mondo
+   dello sport, soprattutto dai giovani viene sempre più messo da parte. Per dare spazio ad una vita sedentaria. Dove ci si accantonerà sempre di più fino ad arrivare
+   a livelli estremi, la tecnologia nel mondo dello sport sta comunque facendo fare passi da gigante a livello competitivo, basta pensare alla palla volo dove ci sono
+   i computer che guardano al millimetro se la palla è stata toccata o meno, oppure nel calcio con il var per avere sempre di più margini di errori minimi, in
+   pochissime parole: la tecnologia per lo sport sta diventando essenziale, bisogna trovare il giusto compromesso, a livello personale non bisognerà mai abbandonare
+   se stessi per una partita ai videogiochi, e per lo sport a livello competitivo beh, solo il tempo saprà rispondere se le nuove tecnologia hanno aiutato o meno.
+   
 ## [Religione e benessere](https://youtu.be/PB7SWg2I1zI)
 
 Qual è il rapporto tra religione e benessere? A questa domanda risponde in
