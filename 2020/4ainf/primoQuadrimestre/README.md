@@ -2,7 +2,19 @@
   <img src="images/smartCity.png" alt="Smart City">
 </div>
 
-## [Introduzione](https://www.youtube.com/watch?v=m4sjGouK8Dk)
+Introduzione.
+
+#### Indice
+
+- [Italiano](#salute-e-benessere)
+- [Storia](#età-dei-lumi)
+- [Informatica](#le-città-del-futuro)
+- [Sistemi e reti](#smart-city-in-italia)
+- [Inglese](#the-city-of-the-future)
+- [Ed.Fisica](#sport-e-sedentarietà)
+- [Religione](#religione-e-benessere)
+
+## [Salute e Benessere](https://www.youtube.com/watch?v=m4sjGouK8Dk)
 
 L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le
 persone, il pianeta e la proprietà. Essa ingloba 17 Obiettivi per lo Sviluppo
@@ -33,16 +45,6 @@ reclutamento, lo sviluppo. La formazione e il mantenimento del personale
 sanitario nei paesi in via di sviluppo; rafforzare la capacità di tutti i
 paesi, per la prevenzione e la gestione dei rischi per la salute nazionale e
 globale, e tutto ciò entro l’anno 2030.
-
-#### Indice
-
-- [Italiano](#introduzione)
-- [Storia](#età-dei-lumi)
-- [Informatica](#le-città-del-futuro)
-- [Sistemi e reti](#smart-city-in-italia)
-- [Inglese](#the-city-of-the-future)
-- [Ed.Fisica](#sport-e-sedentarietà)
-- [Religione](#religione-e-benessere)
 
 ## [Età dei lumi](https://www.treccani.it/enciclopedia/l-eta-dei-lumi-le-scienze-della-vita-l-epidemiologia-e-la-medicina-di-stato_%28Storia-della-Scienza%29/)
   
