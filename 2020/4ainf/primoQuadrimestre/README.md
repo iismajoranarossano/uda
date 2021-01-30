@@ -190,8 +190,7 @@ development in this capital of convergence, here is why:
   public transport. The city’s transport agency – Transport for London, also
   has a unique and ambitious approach to innovation, as exemplified in the
   London RoadLab initiative.
-- **A cleantech leader with market potentialA cleantech leader with market
-  potential**:
+- **A cleantech leader with market potential**:
   The Mayor of London wants to ensure London is a zero-carbon city by 2050.
   The value of London’s low carbon goods and services sector was worth £39.7bn
   in 2017/18, having grown by more than nine percent over the last two years
