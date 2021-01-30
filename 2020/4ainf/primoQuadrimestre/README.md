@@ -68,7 +68,7 @@ Newton.
 
 - **Teorie del contagio**:
 
-Verso la fine del XVII sec. si era manifestato tra i medici un rinnovato
+verso la fine del XVII sec. si era manifestato tra i medici un rinnovato
 interesse per l'osservazione della Natura e la raccolta di dati in seguito
 alla diffusione del metodo induttivo di Francis Bacon (1561-1626),
 all'esperienza di una serie di disastrose epidemie, delle quali la patologia
@@ -84,7 +84,7 @@ epidemica', ossia dell'influenza delle condizioni miasmatiche e atmosferiche.
 
 - **Inoculazione e vaccinazione**:
 
-Il vaiolo era una delle malattie più temute nel XVIII sec. ed era considerato
+il vaiolo era una delle malattie più temute nel XVIII sec. ed era considerato
 un fatto comune e normale, una tappa ineludibile del processo di crescita e di
 invecchiamento. Nessuno sembrava poter sfuggire alle devastazioni che questa
 malattia produceva nel corso normale dell'esistenza e tutti vivevano
@@ -101,7 +101,7 @@ lana e di imbottite, perfino d'estate, per produrre la massima sudorazione.
 
 - **Igiene pubblica e medicina di Stato**:
 
-Nella seconda metà del XVIII sec., l'influsso esercitato sia dal cosiddetto
+nella seconda metà del XVIII sec., l'influsso esercitato sia dal cosiddetto
 tournant des mentalités sia dall'assolutismo illuminato convinse le autorità
 politiche di alcuni Stati europei a fare un passo in avanti per migliorare il
 benessere della popolazione, adottando le misure necessarie a combattere le
@@ -130,27 +130,27 @@ attenta alla qualità della vita e ai bisogni dei propri cittadini. La smart
 city inoltre presenta alcune caratteristiche per essere chiamata tale:
 
 - **Smart People**:
-  Gli abitanti di una città sono enormemente coinvolti nel processo di
+  gli abitanti di una città sono enormemente coinvolti nel processo di
   raggiungimento dell’obiettivo Smart city. Infatti, all’interno di una città
   intelligente si applica la politica partecipativa: tutti gli individui sono
   coinvolti all’interno dei processi decisionali e condividono idee, pensieri
   e informazioni.
 
 - **Smart Living**:
-  Tutti i cittadini di una Smart city devono poter godere di un livello di
+  tutti i cittadini di una Smart city devono poter godere di un livello di
   salute, educazione, sicurezza e cultura elevati. Tutti i servizi devono
   essere facilmente accessibili a livello collettivo e devono essere in grado
   di garantire una qualità di vita elevata.
 
 - **Smart Economy**:
-  L’economia e il commercio all’interno di una città intelligente devono
+  l’economia e il commercio all’interno di una città intelligente devono
   essere rivolti all’aumento della produttività nel rispetto delle risorse
   offerte dall’ambiente circostante. Anche l’occupazione all’interno della
   città è un fattore fondamentale: l’economia deve puntare sulla condivisione
   e sull’innovazione.
 
 - **Smart Mobility**:
-  Anche la mobilità diventa intelligente all’interno delle Smart cities: si
+  anche la mobilità diventa intelligente all’interno delle Smart cities: si
   privilegiano forme di mobilità sostenibili, condivise e accessibili, quali
   sharing mobility e mobilità elettrica. Il fine ultimo è ottimizzare il mondo
   dei trasporti rendendoli accessibili ed economici.
@@ -230,7 +230,7 @@ believes those make sense, including:
 - **hyperloop**:
 -->
 
-- **reusable rockets as cheap as ordinary aircrafts and capable of
+- **Reusable rockets as cheap as ordinary aircrafts and capable of
   transporting people or cargo from city to city**:
   rockets would allow us to fly from New York City to Shangai in 39 minutes or
   Sidney to London in 59 minutes. If we didn't reuse planes, it would cost up to
@@ -240,7 +240,7 @@ believes those make sense, including:
   reuse it 1000 times, it would then costs $60.000 per flight and by carrying a
   number of people, we could get the cost of a rocket flight down to the price
   of an economy aircraft ticket.
-- **gamified learning**:
+- **Gamified learning**:
   you may think that this has nothing to do with smart cities at first, but
   ask yourself the question "how should kids and adults spend their time in
   the city of the future, where there are fewer and fewer jobs that robots
@@ -271,7 +271,7 @@ development in this capital of convergence, here is why:
   has a unique and ambitious approach to innovation, as exemplified in the
   London RoadLab initiative.
 - **A cleantech leader with market potential**:
-  The Mayor of London wants to ensure London is a zero-carbon city by 2050.
+  the Mayor of London wants to ensure London is a zero-carbon city by 2050.
   The value of London’s low carbon goods and services sector was worth £39.7bn
   in 2017/18, having grown by more than nine percent over the last two years
   and expected to continue at more than seven percent to 2021/22.
@@ -280,7 +280,7 @@ development in this capital of convergence, here is why:
   sector.](https://www.business.london/invest/sectors/urban/cleantech)
 
 - **Where real estate meets tech**:
-  As the largest commercial real estate investment market in the world and
+  as the largest commercial real estate investment market in the world and
   home to a globally-renowned tech centre, it’s no surprise that London is a
   hotbed for proptech.
 
