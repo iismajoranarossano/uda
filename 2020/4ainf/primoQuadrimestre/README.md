@@ -4,7 +4,20 @@
 
 #
 
-Noi alunni del 4A dell’ ITIS Ettore Majorana abbiamo preparato il seguente lavoro riguardo la Salute e il Benessere, ma cosa si intende per questo termine all’apparenza così semplice? La Conferenza Internazionale della Sanità (New York, 1946) e l’Organizzazione Mondiale della Sanità (OMS) definiscono la salute come "uno stato di completo benessere fisico, mentale, sociale e non consiste soltanto nell’assenza di malattie o infermità. Il possesso del migliore stato di sanità che si possa raggiungere costituisce uno dei diritti fondamentali di ciascun essere umano, qualunque sia la sua razza, la sua religione, le sue opinioni politiche, la sua condizione economica e sociale. I Governi hanno la responsabilità della sanità dei loro popoli: essi per farvi parte devono prendere le misure sanitarie e sociali appropriate." Parlando di salute e benessere, abbiamo trattato di come queste facciano parte dell’Agenda 2030, del loro legame con l’Illuminismo, le Città del Futuro, Le Smart City, la religione e, ovviamente, lo sport.
+Noi alunni della 4ᵃ A informatica dell’ ITIS Ettore Majorana abbiamo preparato
+il seguente lavoro riguardo la Salute e il Benessere, ma cosa si intende per
+questo termine all’apparenza così semplice? La Conferenza Internazionale della
+Sanità (New York, 1946) e l’Organizzazione Mondiale della Sanità (OMS)
+definiscono la salute come "uno stato di completo benessere fisico, mentale,
+sociale e non consiste soltanto nell’assenza di malattie o infermità. Il
+possesso del migliore stato di sanità che si possa raggiungere costituisce uno
+dei diritti fondamentali di ciascun essere umano, qualunque sia la sua razza,
+la sua religione, le sue opinioni politiche, la sua condizione economica e
+sociale. I Governi hanno la responsabilità della sanità dei loro popoli: essi
+per farvi parte devono prendere le misure sanitarie e sociali appropriate."
+Parlando di salute e benessere, abbiamo trattato di come queste facciano parte
+dell’Agenda 2030, del loro legame con l’Illuminismo, le Città del Futuro, Le
+Smart City, la religione e, ovviamente, lo sport.
 
 #### Indice
 
