@@ -235,14 +235,6 @@ a nerdy CEO who strives to think about exciting-yet-realistic technologies
 video](https://youtu.be/L054Xd97_rk) shows some of his ideas and why he
 believes those make sense, including:
 
-<!-- TODO:
-- **electric self-driving land vehicles**:
-  - **tunnel networks**
-  - **semi-trucks**
-  - **autonomous shared cars**
-- **hyperloop**:
--->
-
 - **Reusable rockets as cheap as ordinary aircrafts and capable of
   transporting people or cargo from city to city**:
   rockets would allow us to fly from New York City to Shangai in 39 minutes or
@@ -253,6 +245,40 @@ believes those make sense, including:
   reuse it 1000 times, it would then costs $60.000 per flight and by carrying a
   number of people, we could get the cost of a rocket flight down to the price
   of an economy aircraft ticket.
+- **Hyperloop**: another way of getting people from city to city would be via
+  [hyperloop](https://www.wikiwand.com/en/Hyperloop). When we think about the
+  ideal transportation system, we would want something that
+
+  - costs half the price,
+  - is twice as fast,
+  - can't crash,
+  - is immune to the weather,
+  - and is powered by solar panels,
+
+  so hyperloop would be a very good deal.
+
+- **Electric self-driving land vehicles**: [self-driving
+  cars](https://www.tesla.com/autopilot)' state of the art [is already more
+  advanced than we may think](https://youtu.be/zRnSmw1i_DQ).
+
+  - Your self-driving car wouldn't have sit in the parking lot waiting for
+    you, it could go back out by itself, and could even make money for you by
+    picking up passengers and dropping them off (with the possibility to
+    schedule when it can be shared, or even with whom, and when you want it
+    ready for yourself).
+  - [Autonomous electric semi-trucks](https://www.tesla.com/semi) would make
+    transportation cheaper and would be very good for the environment as 23%
+    of greenhouse gas comes from the trucking industry.
+  - Most people would imagine cars and drones flying around in a futuristic
+    city but this isn't realistic to Elon, since flying cars would be noisy,
+    produce a lot of wind, have a number of safety issues and be affected by
+    the weather. Instead, Elon thinks [self-driving tunnel
+    networks](https://www.boringcompany.com) would be a much better options.
+    We have 3D city buildings but road networks that are mostly distributed on
+    only one level. Elon believes that the solution to urban traffic is a
+    [network of tunnels](https://youtu.be/u5V_VzRrSBI) that go deep under our
+    cities since we can always go deeeper than we can go upward.
+
 - **Gamified learning**:
   you may think that this has nothing to do with smart cities at first, but
   ask yourself the question "how should kids and adults spend their time in
