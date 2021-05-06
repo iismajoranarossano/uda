@@ -378,7 +378,7 @@ di adeguare i propri comportamenti alimentari alle norme alimentari previste
 dal proprio credo è una sfida che la nostra società ha iniziato da poco ad
 affrontare con consapevolezza.
 
-# <br> <br>
+#
 
 > #### Prodotto finale dell'UDA
 >
