@@ -1,1 +1,0 @@
-- ### [UDA del primo quadrimestre](primoQuadrimestre/README.md)
