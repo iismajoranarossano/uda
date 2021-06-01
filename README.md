@@ -1,2 +1,6 @@
-- ### [UDA del primo quadrimestre](primoQuadrimestre/README.md)
--  ### [UDA del secondo quadrimestre](secondoQuadrimestre/README.md)
+# UDA
+
+|                      |                                                    |
+| :------------------: | :------------------------------------------------: |
+|  Primo Quadrimestre  |  [Prodotto finale](./primoQuadrimestre/README.md)  |
+| Secondo Quadrimestre | [Prodotto finale](./secondoQuadrimestre/README.md) |
