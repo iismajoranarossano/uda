@@ -19,16 +19,6 @@ Parlando di salute e benessere, abbiamo trattato di come queste facciano parte
 dell’Agenda 2030, del loro legame con l’Illuminismo, le Città del Futuro, Le
 Smart City, la religione e, ovviamente, lo sport.
 
-#### Indice
-
-- [Italiano](#salute-e-benessere)
-- [Storia](#età-dei-lumi)
-- [Informatica](#le-città-del-futuro)
-- [Sistemi e reti](#smart-city-in-italia)
-- [Inglese](#the-city-of-the-future)
-- [Ed.Fisica](#sport-e-sedentarietà)
-- [Religione](#religione-e-benessere)
-
 ## [Salute e Benessere](https://www.youtube.com/watch?v=m4sjGouK8Dk)
 
 L’Agenda 2030 per lo Sviluppo Sostenibile è un programma d’azione per le
